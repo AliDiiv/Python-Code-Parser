@@ -40,8 +40,11 @@ for i in range 3:
 
 1. Place your Python-like code in a file named pycode.txt in the parent directory of the script. directory.
 2. Run the script:
-```python your_script_name.py
-```
+
+    ```bash
+    python your_script_name.py
+    ```
+
 3. The output will be displayed in the console.
 
 ## 🔧 Customization
