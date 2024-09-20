@@ -1,0 +1,41 @@
+xu = 456
+yz = 123
+ww = 123
+a = 23
+x=10
+17*17
+if(a!=ww):
+        print("equal1,123")
+else:
+        print("not equal1 *")
+if(xu==yz):
+        print("equal1,123")
+else:
+        print("not equal1 *")
+
+if(ww==yz):
+        print("equal2,456   ,* !?>")
+else:
+        print("not equal2")
+for i in range(5):
+        print('yes')
+for i in range(5):
+        a = a + 1
+print(a)
+for i in range(3,5):
+        print("Hello")
+
+xu+3
+yz*a
+print("x is",x)
+
+for i in range(0,x):
+        y=i+2
+        z=x
+        ww=x
+        z+1
+print(y)
+
+print(z)
+print("z")
+print('z')
